@@ -1,3 +1,7 @@
+## [1.2.5] (2023-05-02)
+* **change in NodeJS Version:**
+Updated to Node16
+
 ## [1.2.4](https://github.com/trilom/file-changes-action/compare/v1.2.3...v1.2.4) (2020-05-21)
 
 
